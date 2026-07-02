@@ -40,7 +40,3 @@
 <img width="99" height="56" alt="tumblr_39a94a8e906e351e71232baac48b5707_56af5c99_100" src="https://github.com/user-attachments/assets/cdda1b4d-4039-4362-ab6e-a0c270e1d9c6" />
 <img width="99" height="56" alt="tumblr_d97f7b3afe52606823c224577651f3e7_7b56ad8f_100" src="https://github.com/user-attachments/assets/470657a5-f798-4498-bc81-bf13690bc16e" />
 </p>
-
-<p align="center"><img width="500" height="80" alt="tumblr_4e7462b61a77cc58c70fc471712535d4_a0c991e5_500" src="https://github.com/user-attachments/assets/2ad84fba-0e77-4420-9679-0633f84be77f" />
-<img width="1058" height="307" alt="tumblr_8a6275e06e21e3a237ced0f781c1b567_a2f6bdff_1280" src="https://github.com/user-attachments/assets/0a1e6d7f-e6d5-4d73-be29-861038d3c6fc" />
-
